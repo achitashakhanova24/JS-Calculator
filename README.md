@@ -1,0 +1,1 @@
+JS Calculator- A simple web-based calculator built using HTML, CSS, and JavaScript. This calculator provides basic arithmetic operations (addition, subtraction, multiplication, and division) in a user-friendly interface.
