@@ -1,8 +1,8 @@
-#JS Calculator
-JS Calculator is a simple web-based calculator designed for performing basic arithmetic operations. Built using HTML, CSS, and JavaScript, this calculator offers a user-friendly interface for quick and easy calculations.
+# JS Calculator
+JS Calculator is a web-based calculator designed for performing basic arithmetic operations. Built using HTML, CSS, and JavaScript, this calculator offers a user-friendly interface for quick and easy calculations.
 
-Features
-Responsive Design: The calculator features a responsive design, ensuring optimal performance across various devices and screen sizes.
+## Features
+ Responsive Design: The calculator features a responsive design, ensuring optimal performance across various devices and screen sizes.
 
 Clear and Intuitive Interface: With a clean layout, the calculator provides a straightforward and intuitive interface, making it easy for users to perform calculations.
 
